@@ -48,4 +48,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open  https://notes-eosin-three.vercel.app/ or [http://localhost:3000](http://localhost:3000) with your browser to see the result.
