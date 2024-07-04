@@ -1,3 +1,9 @@
+# Notes4U -- Your Personalized notes storage
+
+NEWSIFY is a MERN (MongoDB, Express.js, React.js, Node.js) web application designed to provide users with a streamlined and personalized news experience. With a focus on user engagement, NEWSIFY offers an intuitive UI for seamless CRUD (Create, Read, Update, Delete) operations, ensuring that users stay informed about the topics that matter most to them.
+
+
+
 ![image](https://github.com/Nirbhay-279/Notes/assets/143536386/6d702399-73ca-4569-8a8c-64b1b5e2f2a9)
 ![image](https://github.com/Nirbhay-279/Notes/assets/143536386/bc6da8dc-8c87-4cb2-a676-79800ae27875)
 ![image](https://github.com/Nirbhay-279/Notes/assets/143536386/3f21f227-4bab-4c67-bff4-c589768336c3)
