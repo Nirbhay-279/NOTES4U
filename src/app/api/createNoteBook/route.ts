@@ -33,7 +33,7 @@ export async function POST(req: NextRequest) {
     .values({
       name,
       userId,
-      imageUrl: "",
+      imageUrl: "https://res.cloudinary.com/dbj5s9roc/image/upload/v1721622532/mefch35oacltvszsjlkq.jpg",
     })
     .returning({
       insertedId: $notes.id,
